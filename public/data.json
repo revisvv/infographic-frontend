@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "Amber",
+    "element": "Fire"
+  },
+  {
+    "id": "2",
+    "name": "Barbara",
+    "element": "Water"
+  },
+  {
+    "id": "3",
+    "name": "Beidou",
+    "element": "Lightning"
+  },
+  {
+    "id": "4",
+    "name": "Bennet",
+    "element": "Fire"
+  },
+  {
+    "id": "5",
+    "name": "Chongyun",
+    "element": "Ice"
+  },
+  {
+    "id": "6",
+    "name": "Diluc",
+    "element": "Fire"
+  },
+  {
+    "id": "7",
+    "name": "Fischl",
+    "element": "Lightning"
+  },
+  {
+    "id": "8",
+    "name": "Jean",
+    "element": "Air"
+  },
+  {
+    "id": "9",
+    "name": "Kaeya",
+    "element": "Ice"
+  },
+  {
+    "id": "10",
+    "name": "Keqing",
+    "element": "Lightning"
+  },
+  {
+    "id": "11",
+    "name": "Klee",
+    "element": "Fire"
+  },
+  {
+    "id": "12",
+    "name": "Lisa",
+    "element": "Lightning"
+  },
+  {
+    "id": "13",
+    "name": "Mona",
+    "element": "Water"
+  },
+  {
+    "id": "14",
+    "name": "Ningguang",
+    "element": "Earth"
+  },
+  {
+    "id": "15",
+    "name": "Noelle",
+    "element": "Earth"
+  },
+  {
+    "id": "16",
+    "name": "Qiqi",
+    "element": "Ice"
+  },
+  {
+    "id": "17",
+    "name": "Traveler",
+    "element": "Earth"
+  },
+  {
+    "id": "18",
+    "name": "Traveler",
+    "element": "Air"
+  },
+  {
+    "id": "19",
+    "name": "Venti",
+    "element": "Air"
+  },
+  {
+    "id": "20",
+    "name": "Xiangling",
+    "element": "Fire"
+  },
+  {
+    "id": "21",
+    "name": "Xiao",
+    "element": "Air"
+  },
+  {
+    "id": "22",
+    "name": "Xingqiu",
+    "element": "Water"
+  },
+  {
+    "id": "23",
+    "name": "Tartaglia",
+    "element": "Water"
+  },
+  {
+    "id": "24",
+    "name": "Zhongli",
+    "element": "Earth"
+  },
+  {
+    "id": "25",
+    "name": "Diona",
+    "element": "Ice"
+  },
+  {
+    "id": "26",
+    "name": "Xinyan",
+    "element": "Fire"
+  },
+  {
+    "id": "27",
+    "name": "Ganyu",
+    "element": "Ice"
+  },
+  {
+    "id": "28",
+    "name": "Albedo",
+    "element": "Earth"
+  },
+  {
+    "id": "29",
+    "name": "Rosaria",
+    "element": "Ice"
+  },
+  {
+    "id": "30",
+    "name": "Hu Tao",
+    "element": "Fire"
+  }
+]
