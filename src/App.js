@@ -24,11 +24,11 @@ function App() {
   useEffect(()=>{
     getData()
   },[])
-  const listItems = data.map((item) =>
+  const listItems = data.heroes && data.heroes.length ? data.heroes.map((item) =>
     <li key={item.id}>
-      {item.name} - {item.element}
+      {item.name} - {item.element} - {item.weapon} - {item.rarity} - {item.city}
     </li>
-  );
+  ) : [];
   return (
     <div className="App">
       {listItems}

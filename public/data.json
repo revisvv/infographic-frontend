@@ -1,152 +1,250 @@
-[
-  {
-    "id": "1",
-    "name": "Amber",
-    "element": "Fire"
-  },
-  {
-    "id": "2",
-    "name": "Barbara",
-    "element": "Water"
-  },
-  {
-    "id": "3",
-    "name": "Beidou",
-    "element": "Lightning"
-  },
-  {
-    "id": "4",
-    "name": "Bennet",
-    "element": "Fire"
-  },
-  {
-    "id": "5",
-    "name": "Chongyun",
-    "element": "Ice"
-  },
-  {
-    "id": "6",
-    "name": "Diluc",
-    "element": "Fire"
-  },
-  {
-    "id": "7",
-    "name": "Fischl",
-    "element": "Lightning"
-  },
-  {
-    "id": "8",
-    "name": "Jean",
-    "element": "Air"
-  },
-  {
-    "id": "9",
-    "name": "Kaeya",
-    "element": "Ice"
-  },
-  {
-    "id": "10",
-    "name": "Keqing",
-    "element": "Lightning"
-  },
-  {
-    "id": "11",
-    "name": "Klee",
-    "element": "Fire"
-  },
-  {
-    "id": "12",
-    "name": "Lisa",
-    "element": "Lightning"
-  },
-  {
-    "id": "13",
-    "name": "Mona",
-    "element": "Water"
-  },
-  {
-    "id": "14",
-    "name": "Ningguang",
-    "element": "Earth"
-  },
-  {
-    "id": "15",
-    "name": "Noelle",
-    "element": "Earth"
-  },
-  {
-    "id": "16",
-    "name": "Qiqi",
-    "element": "Ice"
-  },
-  {
-    "id": "17",
-    "name": "Traveler",
-    "element": "Earth"
-  },
-  {
-    "id": "18",
-    "name": "Traveler",
-    "element": "Air"
-  },
-  {
-    "id": "19",
-    "name": "Venti",
-    "element": "Air"
-  },
-  {
-    "id": "20",
-    "name": "Xiangling",
-    "element": "Fire"
-  },
-  {
-    "id": "21",
-    "name": "Xiao",
-    "element": "Air"
-  },
-  {
-    "id": "22",
-    "name": "Xingqiu",
-    "element": "Water"
-  },
-  {
-    "id": "23",
-    "name": "Tartaglia",
-    "element": "Water"
-  },
-  {
-    "id": "24",
-    "name": "Zhongli",
-    "element": "Earth"
-  },
-  {
-    "id": "25",
-    "name": "Diona",
-    "element": "Ice"
-  },
-  {
-    "id": "26",
-    "name": "Xinyan",
-    "element": "Fire"
-  },
-  {
-    "id": "27",
-    "name": "Ganyu",
-    "element": "Ice"
-  },
-  {
-    "id": "28",
-    "name": "Albedo",
-    "element": "Earth"
-  },
-  {
-    "id": "29",
-    "name": "Rosaria",
-    "element": "Ice"
-  },
-  {
-    "id": "30",
-    "name": "Hu Tao",
-    "element": "Fire"
-  }
-]
+{
+  "properties": [
+    "name",
+    "element",
+    "weapon",
+    "rarity",
+    "city"
+  ],
+  "heroes": [
+    {
+      "id": "1",
+      "name": "Amber",
+      "element": "Fire",
+      "weapon": "Bow",
+      "rarity": "4",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "2",
+      "name": "Barbara",
+      "element": "Water",
+      "weapon": "Catalyst",
+      "rarity": "4",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "3",
+      "name": "Beidou",
+      "element": "Lightning",
+      "weapon": "Claymore",
+      "rarity": "4",
+      "city": "Liyue"
+    },
+    {
+      "id": "4",
+      "name": "Bennet",
+      "element": "Fire",
+      "weapon": "Sword",
+      "rarity": "4",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "5",
+      "name": "Chongyun",
+      "element": "Ice",
+      "weapon": "Claymore",
+      "rarity": "4"
+    },
+    {
+      "id": "6",
+      "name": "Diluc",
+      "element": "Fire",
+      "weapon": "Claymore",
+      "rarity": "5",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "7",
+      "name": "Fischl",
+      "element": "Lightning",
+      "weapon": "Bow",
+      "rarity": "4",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "8",
+      "name": "Jean",
+      "element": "Air",
+      "weapon": "Sword",
+      "rarity": "5",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "9",
+      "name": "Kaeya",
+      "element": "Ice",
+      "weapon": "Sword",
+      "rarity": "4",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "10",
+      "name": "Keqing",
+      "element": "Lightning",
+      "weapon": "Sword",
+      "rarity": "5",
+      "city": "Liyue"
+    },
+    {
+      "id": "11",
+      "name": "Klee",
+      "element": "Fire",
+      "weapon": "Catalyst",
+      "rarity": "5",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "12",
+      "name": "Lisa",
+      "element": "Lightning",
+      "weapon": "Catalyst",
+      "rarity": "4",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "13",
+      "name": "Mona",
+      "element": "Water",
+      "weapon": "Catalyst",
+      "rarity": "5",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "14",
+      "name": "Ningguang",
+      "element": "Earth",
+      "weapon": "Catalyst",
+      "rarity": "4",
+      "city": "Liyue"
+    },
+    {
+      "id": "15",
+      "name": "Noelle",
+      "element": "Earth",
+      "weapon": "Claymore",
+      "rarity": "4",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "16",
+      "name": "Qiqi",
+      "element": "Ice",
+      "weapon": "Sword",
+      "rarity": "5",
+      "city": "Liyue"
+    },
+    {
+      "id": "17",
+      "name": "Traveler",
+      "element": "Earth",
+      "weapon": "Sword",
+      "rarity": "5",
+      "city": "None"
+    },
+    {
+      "id": "18",
+      "name": "Traveler",
+      "element": "Air",
+      "weapon": "Sword",
+      "rarity": "5",
+      "city": "None"
+    },
+    {
+      "id": "19",
+      "name": "Venti",
+      "element": "Air",
+      "weapon": "Bow",
+      "rarity": "5",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "20",
+      "name": "Xiangling",
+      "element": "Fire",
+      "weapon": "Polearm",
+      "rarity": "4",
+      "city": "Liyue"
+    },
+    {
+      "id": "21",
+      "name": "Xiao",
+      "element": "Air",
+      "weapon": "Polearm",
+      "rarity": "5",
+      "city": "Liyue"
+    },
+    {
+      "id": "22",
+      "name": "Xingqiu",
+      "element": "Water",
+      "weapon": "Sword",
+      "rarity": "4",
+      "city": "Liyue"
+    },
+    {
+      "id": "23",
+      "name": "Tartaglia",
+      "element": "Water",
+      "weapon": "Bow",
+      "rarity": "5",
+      "city": "Snezhnaya"
+    },
+    {
+      "id": "24",
+      "name": "Zhongli",
+      "element": "Earth",
+      "weapon": "Polearm",
+      "rarity": "5",
+      "city": "Liyue"
+    },
+    {
+      "id": "25",
+      "name": "Diona",
+      "element": "Ice",
+      "weapon": "Bow",
+      "rarity": "4",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "26",
+      "name": "Xinyan",
+      "element": "Fire",
+      "weapon": "Claymore",
+      "rarity": "4",
+      "city": "Liyue"
+    },
+    {
+      "id": "27",
+      "name": "Ganyu",
+      "element": "Ice",
+      "weapon": "Bow",
+      "rarity": "5",
+      "city": "Liyue"
+    },
+    {
+      "id": "28",
+      "name": "Albedo",
+      "element": "Earth",
+      "weapon": "Sword",
+      "rarity": "5",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "29",
+      "name": "Rosaria",
+      "element": "Ice",
+      "weapon": "Polearm",
+      "rarity": "4",
+      "city": "Mondstadt"
+    },
+    {
+      "id": "30",
+      "name": "Hu Tao",
+      "element": "Fire",
+      "weapon": "Polearm",
+      "rarity": "5",
+      "city": "Liyue"
+    }
+  ]
+}
